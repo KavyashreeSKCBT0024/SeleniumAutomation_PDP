@@ -1,0 +1,38 @@
+2024-09-24 20:56:15 INFO  LoginDDT:23 - **** Starting TC_003_LoginDDT *****
+2024-09-24 20:56:15 INFO  LoginDDT:29 - clicked on myaccount link on the home page..
+2024-09-24 20:56:15 INFO  LoginDDT:32 - clicked on login link under myaccount..
+2024-09-24 20:56:16 INFO  LoginDDT:38 - clicked on login button..
+2024-09-24 20:56:17 INFO  LoginDDT:75 - **** Finished TC_003_LoginDDT *****
+2024-09-24 20:56:17 INFO  LoginDDT:23 - **** Starting TC_003_LoginDDT *****
+2024-09-24 20:56:17 INFO  LoginDDT:29 - clicked on myaccount link on the home page..
+2024-09-24 20:56:17 INFO  LoginDDT:32 - clicked on login link under myaccount..
+2024-09-24 20:56:18 INFO  LoginDDT:38 - clicked on login button..
+2024-09-24 20:56:19 INFO  LoginDDT:75 - **** Finished TC_003_LoginDDT *****
+2024-09-24 20:56:19 INFO  LoginDDT:23 - **** Starting TC_003_LoginDDT *****
+2024-09-24 20:56:19 INFO  LoginDDT:29 - clicked on myaccount link on the home page..
+2024-09-24 20:56:19 INFO  LoginDDT:32 - clicked on login link under myaccount..
+2024-09-24 20:56:21 INFO  LoginDDT:38 - clicked on login button..
+2024-09-24 20:56:21 INFO  LoginDDT:75 - **** Finished TC_003_LoginDDT *****
+2024-09-24 20:56:21 INFO  LoginDDT:23 - **** Starting TC_003_LoginDDT *****
+2024-09-24 20:56:21 INFO  LoginDDT:29 - clicked on myaccount link on the home page..
+2024-09-24 20:56:22 INFO  LoginDDT:32 - clicked on login link under myaccount..
+2024-09-24 20:56:23 INFO  LoginDDT:38 - clicked on login button..
+2024-09-24 20:56:33 INFO  LoginDDT:75 - **** Finished TC_003_LoginDDT *****
+2024-09-24 20:56:33 INFO  LoginDDT:23 - **** Starting TC_003_LoginDDT *****
+2024-09-24 20:56:33 INFO  LoginDDT:29 - clicked on myaccount link on the home page..
+2024-09-24 20:56:33 INFO  LoginDDT:32 - clicked on login link under myaccount..
+2024-09-24 20:56:35 INFO  LoginDDT:38 - clicked on login button..
+2024-09-24 20:56:35 INFO  LoginDDT:75 - **** Finished TC_003_LoginDDT *****
+2024-09-24 21:04:59 INFO  Account_Regristraction:17 - ******* Starting Account_Registraction Testcase ***********
+2024-09-24 21:04:59 INFO  Account_Regristraction:23 - Clicking on My Account Link
+2024-09-24 21:04:59 INFO  Account_Regristraction:26 - Clicking on Regristraction Link
+2024-09-24 21:04:59 INFO  Account_Regristraction:31 - Entering all the deatils
+2024-09-24 21:05:00 INFO  Account_Regristraction:42 - Clicking on check box
+2024-09-24 21:05:02 INFO  Account_Regristraction:46 - Validating expected message..
+2024-09-24 21:05:02 INFO  Account_Regristraction:51 - Test passed
+2024-09-24 21:05:02 INFO  Account_Regristraction:56 - ***** Finished AccountRegistrationTest *****
+2024-09-24 21:05:08 INFO  Login:16 - ********* Login testcase Started
+2024-09-24 21:05:09 INFO  Login:21 - clicked on myaccount link on the home page..
+2024-09-24 21:05:09 INFO  Login:24 - clicked on login link under myaccount..
+2024-09-24 21:05:10 INFO  Login:30 - clicked on login button..
+2024-09-24 21:05:10 INFO  Login:40 - ***********Testcase Ended************
